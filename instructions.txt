@@ -1,0 +1,19 @@
+https://diginomica.com/how-wefarm-using-nlp-and-sms-powered-cloud-help-farmers-share-knowledge
+https://winkjs.org/blog/nlp-in-agriculture.html
+
+
+1) Useful software toolkits for processing text data or building text data applications. 
+
+2) Emerging new applications of text retrieval or analysis. 
+
+3) New techniques for text retrieval or analysis
+
+
+1) Topic proposal: Every student is required to select a topic from a provided topic list or propose a topic by the end of Week 9 (Oct 23, 2021) in the signup sheet (access with illinois.edu email address): 
+
+https://docs.google.com/spreadsheets/d/1hWAyxd82FcitN9eG3yMW6ckq6l1VASBtYWpaPbywMPc/edit?usp=sharing
+
+Some sample topics are provided here: https://docs.google.com/spreadsheets/d/1yeKm8hJbyRGhiUDvZv9-S3Zzu5hDtET-O6Yeci-VPOs/edit?usp=sharing   
+
+2. Review submission: Each student is required to submit a complete Technology Review by the end of Week 11 (Nov 6, 2021).  
+  The review must have a coherent storyline (Intro, Body, Conclusion) and cite relevant references. It must be at least ~2 pages   
